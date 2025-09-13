@@ -1,0 +1,4 @@
+type,symbol,quantity,avg_price,underlying,expiration,strike,right,multiplier
+stock,AAPL,10,150,,,,,
+stock,MSFT,5,300,,,,,
+option,,1,3.5,SPY,2025-12-19,450,C,100

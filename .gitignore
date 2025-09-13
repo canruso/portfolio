@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# Streamlit
+.streamlit/
+
+# Data (keep user data out of git)
+data/*.csv
+!data/positions.example.csv
+
+# OS
+.DS_Store
+Thumbs.db
