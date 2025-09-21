@@ -3,3 +3,5 @@ pandas==2.2.2
 numpy==1.26.4
 yfinance==0.2.41
 matplotlib==3.8.4
+alpaca-py==0.42.1
+plotly
